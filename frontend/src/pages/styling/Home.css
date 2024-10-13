@@ -1,0 +1,60 @@
+.home-container {
+    padding: 20px;
+    text-align: center;
+    background-color: #f8f9fa; /* Light background for better contrast */
+  }
+  
+  .hero-section {
+    background-image: url('https://your-image-url.com/hero-image.jpg'); /* Replace with your image URL */
+    background-size: cover;
+    background-position: center;
+    color: white;
+    padding: 60px 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  
+  .hero-section h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+    color: black;
+  }
+  
+  .hero-section p {
+    font-size: 1.25rem;
+    margin-bottom: 20px;
+    color: teal;
+  }
+  
+  .btn-explore {
+    background-color: #007bff; /* Bootstrap primary color */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 1rem;
+    transition: background-color 0.3s;
+  }
+  
+  .btn-explore:hover {
+    background-color: #0056b3; /* Darker shade on hover */
+  }
+  
+  .featured-section {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #ffffff; /* White background for the featured section */
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .featured-section h2 {
+    margin-bottom: 10px;
+  }
+  
+  .featured-section p {
+    font-size: 1rem;
+    margin-bottom: 20px;
+  }
+  
